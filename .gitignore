@@ -1,0 +1,9 @@
+
+# Ignore logo.png file
+logo.png
+
+# Ignore qrcode.png file
+qrcode.png
+
+# Ignore the virtual environment folder
+.venv/
